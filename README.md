@@ -4,11 +4,11 @@
 
 **Key Contributions:**
 
-Designed and developed interactive dashboards visualizing key metrics, including total sales, item-wise performance, and outlet analysis.
+- Designed and developed interactive dashboards visualizing key metrics, including total sales, item-wise performance, and outlet analysis.
 
-Analyzed outlet size, location, and establishment data to identify trends and sales patterns.
+- Analyzed outlet size, location, and establishment data to identify trends and sales patterns.
 
-Leveraged filters and data visualization techniques to enable dynamic exploration of sales performance across different tiers and item categories.
+- Leveraged filters and data visualization techniques to enable dynamic exploration of sales performance across different tiers and item categories.
 
 **Tools Used:** Power BI, Excel
 
